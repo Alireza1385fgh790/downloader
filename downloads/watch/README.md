@@ -7,9 +7,9 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `watch` |
-| **Size** | .60 MB |
+| **Size** | 1.05 MB |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
@@ -25,7 +25,6 @@
 
 1. **Open** `watch.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 2. **Extract** the file
-3. Enter the password when prompted
 
 ---
 
